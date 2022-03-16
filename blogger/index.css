@@ -1,0 +1,62 @@
+body{
+    background-color: #FFFFFF;
+}
+.boxtopic{
+    font-family: 'Fredoka One'; 
+    letter-spacing: 0.17em;
+    color:#FFFFFF ;
+}
+.box{
+    display: block;
+    justify-content: center;
+    border: 8px solid #E1F355;
+    border-radius: 20px;
+    margin-top: 100px;
+    padding: 50px;
+    background-color: #7894FF;
+}
+
+.content{
+
+    text-align:left;
+}
+
+.my button{
+    text-align:center;
+}
+
+#topic1{
+    font-size: 25px;
+    color:#F1FF84;
+}
+#comment-1{
+    font-size: 25px;
+    color:#F1FF84;
+}
+#comment-2{
+    font-size: 25px;
+    color:#F1FF84;
+}
+#text1{
+    width: 300px;
+    height: 30px;
+    font-size: 15px;
+    font-family: 'Fredoka One'; 
+    letter-spacing: 0.17em;
+    text-align: center;
+    border-radius: 20px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    font-family: 'Fredoka One'; 
+    letter-spacing: 0.17em;
+    border-radius: 20px;
+    
+}
+hr{
+    border: 3px solid#FF722D;
+    background: #FF722D;
+    border-radius: 20px;
+}
